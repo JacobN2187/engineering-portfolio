@@ -1,0 +1,117 @@
+﻿Jacob Niv - Biomedical Engineer                jacobniv2187@gmail.com
+
+________________
+
+
+Custom Fidgets
+
+Fidgets offer tactile stimulus to occupy restless energy that can disrupt concentration. Frustrated by noisy, distracing mainstream options, I design quiet, tactilely satisfying fidgets to subtly enhance focus. I originally designed “the perfect fidget” for myself, but when my peers asked to buy it from me, I knew I had to make something for them. Inspired by their feedback, I use CAD tools and 3D printing to refine my tactile and mechanical actions to create a compelling user experience. In fact, When placed in public settings, my creations rarely sit idle for long; people instinctively reach for them, effortlessly channeling distraction into calm productivity
+Selected designs:
+
+
+Fidget Cube
+
+
+Six different combinations of textures and dynamic tactile experiences.
+Magnetic slider, embedded ball bearings, gears, wheel, and joystick.
+All in a 1 ¼ inch cube.
+
+
+
+
+Diamond Spinner
+2 identical magnetic sides that rotate about a pin. Satisfying in its simplicity. Comes in variety of colors.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+________________
+
+
+Prosthetic Card-holding Hand
+
+
+As a class project, I prototyped a card-holding prosthetic for a below-elbow amputee. Features include:
+* Sweat wicking adjustable attachment points 
+* Scrabble-like holder with a capacity of 25 playing cards (6 if sides do not overlap)
+* Customizable front design
+* The card-holding portion can be detached easily to stand on a flat surface. 
+
+
+________________
+
+
+Millennium Falcon
+
+
+I taught myself how to use Blender and Fusion 360 by modeling the
+Millennium Falcon from Star Wars from reference photos.  Using my
+university’s 3D printer to print the ship inspired me to get my own
+printer.
+
+
+I am currently modeling the ship in Solidworks.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+________________
+
+
+
+
+0.005” Tolerance Hammer 
+During a manufacturing class at Case Western, I learned the fundamentals of
+metal machining enabling me to make a hammer with 0.005” tolerances. 
+The tools I used to make this steel hammer include:
+* Bandsaw
+* Lathe
+* Mill
+   * Reamer
+* Drill press
+   * Counterbore
+   * Countersink
+* Benchtop Grinder and Polishing Wheel
+* Threaded Tap Wrench
+* CNC mill
+
+
+________________
+
+
+
+
+Carpet Sweeper
+
+
+As part of a group project, I designed a broom with a belt-driven brush, to work as an unpowered vacuum cleaner. The design complied with Case’s engineering documentation standards. It was manufacturable with the tools available in a standard machine shop, and had a cost of materials in line with the purpose it served.
