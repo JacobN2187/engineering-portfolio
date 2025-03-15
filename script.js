@@ -2,7 +2,10 @@ document.addEventListener('DOMContentLoaded', function() {
     // Get all sections and navigation items
     const sections = document.querySelectorAll('.project');
     const navItems = document.querySelectorAll('.nav-item');
-    
+    const mygif = document.getElementById('diamond_gif');
+    setInterval(() => {
+        mygif.src = mygif.src;
+    }, 3400);  //    milliseconds
     // Function to update active navigation item based on scroll position
     function updateActiveNavItem() {
         const scrollPosition = window.scrollY;
