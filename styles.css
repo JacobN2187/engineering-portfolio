@@ -58,13 +58,10 @@ ul {
 img {
     max-width: 100%;
     height: auto;
-    border-radius: 4px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
 }
 
 .gif {
-    border-radius: 4px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    border-radius: 0;
 }
 
 /* Layout */
@@ -210,6 +207,18 @@ header h1 {
     transition: transform 0.3s ease;
 }
 
+.cube-exploded {
+    transform: rotate(90deg);
+}
+
+.cube-exploded:hover {
+    transform: rotate(90deg) scale(1.05);
+}
+
+.gallery-image:not(.cube-exploded):hover {
+    transform: scale(1.05);
+}
+
 .sub-projects {
     margin-top: 2rem;
 }
@@ -320,9 +329,4 @@ header h1 {
     .sub-project {
         padding: 1rem;
     }
-}
-
-/* Animation for images */
-.gallery-image:hover {
-    transform: scale(1.05);
 } 
