@@ -219,6 +219,47 @@ header h1 {
     transform: scale(1.05);
 }
 
+.below-text {
+    margin-top: 1rem;
+    max-width: 100%;
+}
+
+.spinner-gif {
+    max-width: 300px;
+    margin: 0 auto;
+    display: block;
+}
+
+.cad-images {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+    margin-top: 1rem;
+}
+
+.cad-image {
+    max-width: 100%;
+}
+
+.printed-mf {
+    max-width: 100%;
+    height: auto;
+}
+
+#hammer .project-content {
+    align-items: start;
+    gap: 1rem;
+}
+
+#hammer .project-gallery {
+    margin-top: -11rem;
+}
+
+#hammer .gallery-image {
+    width: 110%;
+    margin-left: -5%;
+}
+
 .sub-projects {
     margin-top: 2rem;
 }
